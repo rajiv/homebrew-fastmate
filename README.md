@@ -1,11 +1,28 @@
-# Rajiv Fastmate
+# Homebrew tap for Fastmate
 
-## How do I install these formulae?
+[Fastmate](https://github.com/joelekstrom/fastmate) is a native macOS wrapper for [Fastmail](https://www.fastmail.com/), written by [Joel Ekström](https://github.com/joelekstrom).
 
-`brew install rajiv/fastmate/<formula>`
+This repository hosts a [Homebrew](https://brew.sh) tap and formula for installing Fastmate.
 
-Or `brew tap rajiv/fastmate` and then `brew install <formula>`.
+## Installing Fastmate using Homebrew
 
-## Documentation
+```shell-script
+brew install rajiv/fastmate/fastmate
+```
 
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+Or
+
+```shell-script
+brew tap rajiv/fastmate
+brew install fastmate
+```
+
+## Authors
+
+Homebrew cask authored by [Rajiv Aaron Manglani](https://www.rajivmanglani.com/).
+
+Fastmate written by [Joel Ekström](https://github.com/joelekstrom).
+
+## License
+
+Copyright (c) 2021 Rajiv Aaron Manglani. All rights reserved. Released under the MIT license.
