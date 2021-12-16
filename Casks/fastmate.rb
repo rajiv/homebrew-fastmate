@@ -1,6 +1,6 @@
 cask "fastmate" do
-  version "1.6.6"
-  sha256 "a75034add0ba38685e950853be229bdf53408046d647f7d8fe7e13755f98afc3"
+  version "1.7.0"
+  sha256 "58d69d1f806e2926c4bb24d8668338cef45a6e44a27c52309a98ed9d403e8839"
 
   url "https://github.com/joelekstrom/fastmate/releases/download/v#{version}/Fastmate-#{version}.zip"
   appcast "https://github.com/joelekstrom/fastmate/releases.atom"
