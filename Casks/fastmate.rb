@@ -4,8 +4,8 @@ cask "fastmate" do
     sha256 "54e46f5c192c941a0c4f27364def9f1eee36850047c331a66377e3d151efeffe"
     url "https://github.com/joelekstrom/fastmate/releases/download/v#{version}/Fastmate-#{version}.zip"
   else
-    version "1.8.2"
-    sha256 "6eb95d02f54bdfc08b462eae4f5c3bab76e5fa3c530f8b771d2dba6c424a1692"
+    version "1.9.0"
+    sha256 "77913324e3836407b46f53ac818fc8aadaea329b4dc442dfe1df17cc1fa48718"
     url "https://github.com/joelekstrom/fastmate/releases/download/v#{version}/Fastmate-#{version}.zip"
     appcast "https://github.com/joelekstrom/fastmate/releases.atom"
   end
