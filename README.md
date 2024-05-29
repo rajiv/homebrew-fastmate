@@ -25,4 +25,4 @@ Fastmate written by [Joel Ekström](https://github.com/joelekstrom).
 
 ## License
 
-Copyright (c) 2021 Rajiv Aaron Manglani. All rights reserved. Released under the MIT license.
+Copyright (c) 2021 Rajiv Aaron Manglani. Released under the MIT license.
