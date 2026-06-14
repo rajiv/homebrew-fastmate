@@ -12,6 +12,7 @@ cask "fastmate" do
   end
 
   auto_updates false
+  depends_on :macos
 
   app "Fastmate.app"
 

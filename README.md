@@ -7,14 +7,15 @@ This repository hosts a [Homebrew](https://brew.sh) tap and formula for installi
 ## Installing Fastmate using Homebrew
 
 ```shell-script
-brew install rajiv/fastmate/fastmate
+brew install --cask rajiv/fastmate/fastmate
 ```
 
 Or
 
 ```shell-script
 brew tap rajiv/fastmate
-brew install fastmate
+brew trust --formula rajiv/fastmate/fastmate
+brew install --cask fastmate
 ```
 
 ## Authors
